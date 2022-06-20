@@ -1,5 +1,4 @@
-# Graph recommender systems
-## Tikhonov and Sobolev regularisers compared to user-based KNN collaborative filtering
+# Tikhonov and Sobolev regularisers compared to user-based KNN collaborative filtering
 
 The code in this repository is used to research how the Tikhonov and Sobolev graph regularisers perform for user-based KNN collaborative filtering.
 
